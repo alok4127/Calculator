@@ -1,2 +1,17 @@
 # Calculator
-This is a GUI built calculator with good visuals and easy access, easy to use and operational
+
+A GUI-based calculator application developed using Java.
+
+## Features
+
+- Basic arithmetic operations
+- User-friendly interface
+- Fast and simple calculations
+
+## Technologies Used
+
+- Java
+
+## Author
+
+Alok Ramteke
